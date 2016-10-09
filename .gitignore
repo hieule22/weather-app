@@ -1,3 +1,6 @@
 # Autosaves and temporary files.
 *~
 *#
+
+# OS generated files.
+.DS_STORE
